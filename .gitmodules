@@ -1,0 +1,7 @@
+[submodule "docker-jessie"]
+    path = docker-jessie
+    url = git://github.com/dtulyakov/docker-jessie.git
+
+[submodule "docker-shell"]
+    path = docker-shell
+    url = git://github.com/dtulyakov/docker-shell.git
