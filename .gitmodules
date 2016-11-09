@@ -5,3 +5,7 @@
 [submodule "docker-shell"]
     path = docker-shell
     url = git://github.com/dtulyakov/docker-shell.git
+
+[submodule "docker-tzabbix"]
+	path = docker-tzabbix
+	url = ./docker-tzabbix
