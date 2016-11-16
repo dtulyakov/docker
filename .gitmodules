@@ -7,5 +7,9 @@
     url = git://github.com/dtulyakov/docker-shell.git
 
 [submodule "docker-tzabbix"]
-	path = docker-tzabbix
-	url = ./docker-tzabbix
+    path = docker-tzabbix
+    url =  git://github.com/dtulyakov/docker-tzabbix.git
+
+[submodule "docker-jenkins"]
+    path = docker-jenkins
+    url =  git://github.com/dtulyakov/docker-jenkins.git
